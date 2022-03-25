@@ -1,0 +1,13 @@
+debug/main.o
+debug/gamemainmenu.o
+debug/livingspace.o
+debug/player.o
+debug/buttons.o
+debug/inventory.o
+debug/item.o
+debug/craftig.o
+debug/enemy.o
+debug/Resource.o
+debug/qrc_png.o
+debug/moc_gamemainmenu.o
+debug/moc_buttons.o

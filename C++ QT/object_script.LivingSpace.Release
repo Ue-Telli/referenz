@@ -1,0 +1,13 @@
+release/main.o
+release/gamemainmenu.o
+release/livingspace.o
+release/player.o
+release/buttons.o
+release/inventory.o
+release/item.o
+release/craftig.o
+release/enemy.o
+release/Resource.o
+release/qrc_png.o
+release/moc_gamemainmenu.o
+release/moc_buttons.o

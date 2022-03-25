@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/Png">
+        <file>HaupM.png</file>
+        <file>Haus1.png</file>
+        <file>Haus2.png</file>
+        <file>panel_brown.png</file>
+        <file>blue_button00.png</file>
+        <file>buttonLong_beige.png</file>
+        <file>panelInset_beigeLight.png</file>
+        <file>stein.png</file>
+        <file>blue_button01.png</file>
+        <file>tile_0024.png</file>
+        <file>_tein.png</file>
+        <file>cursorGauntlet_bronze.png</file>
+        <file>kristall.png</file>
+        <file>mapppppppp.png</file>
+        <file>iconCross_brown.png</file>
+        <file>swordBronze.png</file>
+        <file>holz-1.png</file>
+        <file>glassPanel.png</file>
+    </qresource>
+    <qresource prefix="/new/sound">
+        <file>gone_fishin_by_memoraphile_CC0.mp3</file>
+        <file>mouseclick1.wav</file>
+        <file>mouserelease1.wav</file>
+    </qresource>
+</RCC>
